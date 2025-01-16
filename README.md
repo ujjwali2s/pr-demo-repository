@@ -1,7 +1,7 @@
 # Timmy's Three Wishes
 
 
-Once upon a time, in a faraway land, there was a young boy named Tim. Tim lived in a smal village where he was known for his curios nature and love for adventure. One day, he decided to explore the mistical forest that lay beyond the village boundries.
+Once upon a time, in a faraway land, there was a young boy named Tim. Tim lived in a smal village where he was known for his curious nature and love for adventure. One day, he decided to explore the mistical forest that lay beyond the village boundries.
 
 As he walked through the dense forrest, he stumbled upon a strange looking creature. It had big, floopy ears and a long, bushy tale. The creature looked at Tim and said, "Hello ther, human. My name is Fluffy, and I'm a magical rabit."
 
